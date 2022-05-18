@@ -1,3 +1,7 @@
-import pandas
 
-print("Hello!")
+
+print("Hello")
+print("Hello again!")
+
+def foo(x):
+  return x
